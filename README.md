@@ -11,4 +11,6 @@ A template on the Dirtywave m8 that uses tables A0-CF to apply more detailed and
 
 Works with all instruments on the m8. 
 
+Video Explanation https://youtu.be/23KgrxbrCss
+
 
